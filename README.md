@@ -1,6 +1,6 @@
 - 👋 Hi, I’m RAJESH
 - 👀 I’m interested in ...Cloud Computing,Information Security and Coding
-- 🌱 I’m currently learning For AWS Solution Architect,Blue Team Level 1,Portswigger Certified Practitioner.
+- 🌱 I’m currently learning For AWS Solution Architect,CKA, Cloud Security.
 - 💞️ I’m looking to collaborate on Information Security,Open source projects.
 - 📫 How to reach me => Reach me at rajuraj0706@gmail.com
 
